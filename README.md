@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/sachintanwar2206?style=for-the-badge&logo=github&color=6366f1&labelColor=0d1117&label=GitHub)](https://github.com/sachintanwar2206)
+[![Profile Views](https://komarev.com/ghpvc/?username=sachintanwar2206&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/sachintanwar2206)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sachintanwar2206)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sachintanwar2206.github.io)
 [![Resume](https://img.shields.io/badge/Resume-Download%20PDF-10b981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/uc?export=download&id=1xTtqDlP9trlXC0JYeKyYTvhms0ZFxQLO)
@@ -102,26 +102,18 @@ current_projects = {
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Stats
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/sachintanwar2206?style=for-the-badge&logo=github&color=6366f1&labelColor=0d1117&label=Followers)](https://github.com/sachintanwar2206?tab=followers)
-&nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/sachintanwar2206?style=for-the-badge&logo=github&color=818cf8&labelColor=0d1117&label=Stars+Earned)](https://github.com/sachintanwar2206)
-&nbsp;
-[![Public Repos](https://img.shields.io/badge/Public%20Repos-12-10b981?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/sachintanwar2206?tab=repositories)
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sachintanwar2206&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=818cf8&text_color=94a3b8&count_private=false&rank_icon=github&cache_seconds=1800" />
+&nbsp;&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachintanwar2206&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=94a3b8&layout=compact&langs_count=6&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
-<sub>💼 Most professional work lives in private enterprise repos — public counts reflect open-source contributions only.</sub>
-</div>
-
-<br/>
-
-<div align="center">
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sachintanwar2206&bg_color=0d1117&color=818cf8&line=6366f1&point=ffffff&area_color=1e1b4b&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+<img width="70%" src="https://streak-stats.demolab.com?user=sachintanwar2206&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=818cf8&sideLabels=94a3b8&dates=64748b&currStreakNum=f1f5f9&sideNums=f1f5f9" />
 </div>
 
 ---
