@@ -106,7 +106,7 @@ current_projects = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sachintanwar2206&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=818cf8&text_color=94a3b8&count_private=false&rank_icon=github&cache_seconds=1800" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sachintanwar2206&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=818cf8&text_color=94a3b8&count_private=true&rank_icon=github&cache_seconds=1800" />
 &nbsp;&nbsp;
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachintanwar2206&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=94a3b8&layout=compact&langs_count=6&cache_seconds=1800" />
 
@@ -114,6 +114,10 @@ current_projects = {
 
 <div align="center">
 <img width="70%" src="https://streak-stats.demolab.com?user=sachintanwar2206&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=818cf8&sideLabels=94a3b8&dates=64748b&currStreakNum=f1f5f9&sideNums=f1f5f9" />
+</div>
+
+<div align="center">
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sachintanwar2206&bg_color=0d1117&color=818cf8&line=6366f1&point=ffffff&area_color=1e1b4b&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 </div>
 
 ---
