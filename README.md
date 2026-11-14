@@ -132,6 +132,8 @@ focus = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sachintanwar2206.github.io)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachin.tanwar2206@gmail.com)
+&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-10b981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://sachintanwar2206.github.io/SachinTanwar_SoftwareArchitect_Resume.pdf)
 
 </div>
 
