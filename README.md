@@ -86,10 +86,18 @@ current_projects = {
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sachintanwar2206&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
+
+| 🤖 AI Innovation Lead | ☁️ Azure Cloud Architect | 🏗️ Microservices Expert |
+|:---:|:---:|:---:|
+| Production LLM systems at scale | Multi-service enterprise deployments | Event-driven async architecture |
+
+| 👥 Engineering Leader | 🔒 SOC 2 Compliant | 🌍 Multilingual Platforms |
+|:---:|:---:|:---:|
+| Led 13+ engineer teams | Security-first architecture | Dutch · German · Spanish |
+
 </div>
 
 ---
@@ -98,22 +106,18 @@ current_projects = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sachintanwar2206&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=818cf8&text_color=94a3b8&count_private=false&include_all_commits=true&rank_icon=github" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sachintanwar2206&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=818cf8&text_color=94a3b8&count_private=false&rank_icon=github&cache_seconds=1800" />
 &nbsp;&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachintanwar2206&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=94a3b8&layout=compact&langs_count=8" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachintanwar2206&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=94a3b8&layout=compact&langs_count=6&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=sachintanwar2206&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=818cf8&sideLabels=94a3b8&dates=64748b&currStreakNum=f1f5f9&sideNums=f1f5f9" />
+<img width="70%" src="https://streak-stats.demolab.com?user=sachintanwar2206&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=818cf8&sideLabels=94a3b8&dates=64748b&currStreakNum=f1f5f9&sideNums=f1f5f9" />
 </div>
 
 <div align="center">
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sachintanwar2206&bg_color=0d1117&color=818cf8&line=6366f1&point=ffffff&area_color=1e1b4b&area=true&hide_border=true&custom_title=Contribution%20Activity" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sachintanwar2206/sachintanwar2206/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
