@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sachin%20Tanwar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Software%20Architect%20%E2%80%A2%20AI%20Innovation%20Lead%20%E2%80%A2%20Azure%20Cloud%20Expert&descAlignY=75&descSize=18&descColor=94a3b8" width="100%"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&height=60&lines=Building+AI-first+Enterprise+Systems+%F0%9F%A4%96;10%2B+Years+%E2%80%A2+Software+Architect+%F0%9F%8F%97%EF%B8%8F;%24100K%2B+Saved+Through+AI+Innovation+%F0%9F%92%A1;Leading+13%2B+Engineers+%40+ThrivePass+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=720&height=60&lines=Building+AI-first+Enterprise+Systems+%F0%9F%A4%96;10%2B+Years+%E2%80%A2+Software+Architect+%F0%9F%8F%97%EF%B8%8F;%24100K%2B+Saved+Through+AI+Innovation+%F0%9F%92%A1;Leading+13%2B+Engineers+%40+ThrivePass+%F0%9F%9A%80" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -11,6 +11,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=sachintanwar2206&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/sachintanwar2206)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sachintanwar2206)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sachintanwar2206.github.io)
+[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-10b981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/uc?export=download&id=1xTtqDlP9trlXC0JYeKyYTvhms0ZFxQLO)
 
 </div>
 
@@ -20,13 +21,9 @@
 
 <div align="center">
 
-| 🏗️ **10+ Years** | 💡 **$100K+** | 👥 **13+ Engineers** |
-|:---:|:---:|:---:|
-| Software Architecture | AI Cost Savings | Team Leadership |
-
-| 🤖 **100K calls/mo** | ⚡ **2–3x** | 🌍 **3 Languages** |
-|:---:|:---:|:---:|
-| AI Voice at Scale | Productivity Boost | Dutch, German, Spanish |
+| 🏗️ **10+** | 💰 **$100K+** | 👥 **13+** | 📞 **100K+** | ⚡ **2–3x** |
+|:---:|:---:|:---:|:---:|:---:|
+| Years Experience | Annual AI Savings | Engineers Led | AI Calls/Month | Productivity Boost |
 
 </div>
 
@@ -43,19 +40,19 @@ Software Architect with **10+ years** designing enterprise systems at scale. Cur
 - 🏢 **ThrivePass** — Software Architect
 - 📍 Delhi, India
 - 🎓 B.Tech CS — GGSIPU
-- 💼 Currently @ ThrivePass — heading Innovation
+- 🤝 13 followers · 12 public repos
 
 </td>
 <td width="50%" valign="top">
 
-### 🔭 Current Focus
+### 🔥 Currently Building
 
 ```python
-focus = {
-  "AI":         ["Azure OpenAI", "RAG", "LLM Agents"],
-  "Infra":      ["MCP Servers", "Voice AI"],
-  "Leadership": ["Team of 13+", "AI Adoption"],
-  "Stack":      [".NET 8", "Azure", "Angular"]
+current_projects = {
+  "AI Voice Infra":   "Event-driven • Multilingual • 100K/mo",
+  "MCP Servers":      "AI assistants ↔ enterprise data",
+  "LLM Automation":  "RAG • Prompt Eng • AI Code Review",
+  "AI Adoption":      "Copilot + Claude Code org-wide"
 }
 ```
 
@@ -71,7 +68,7 @@ focus = {
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -89,15 +86,30 @@ focus = {
 
 ---
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sachintanwar2206&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sachintanwar2206&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=818cf8&text_color=94a3b8&ring_color=6366f1" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sachintanwar2206&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=64748b" />
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sachintanwar2206&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=818cf8&text_color=94a3b8&count_private=false&include_all_commits=true&rank_icon=github" />
+&nbsp;&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachintanwar2206&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=94a3b8&layout=compact&langs_count=8" />
+
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sachintanwar2206&bg_color=0d1117&color=818cf8&line=6366f1&point=ffffff&area=true&hide_border=true" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=sachintanwar2206&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=818cf8&sideLabels=94a3b8&dates=64748b&currStreakNum=f1f5f9&sideNums=f1f5f9" />
+</div>
+
+<div align="center">
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sachintanwar2206&bg_color=0d1117&color=818cf8&line=6366f1&point=ffffff&area_color=1e1b4b&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 </div>
 
 <div align="center">
@@ -108,20 +120,67 @@ focus = {
 
 ### 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/sachintanwar2206/mssql-mcp-server">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sachintanwar2206&repo=mssql-mcp-server&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=94a3b8&icon_color=818cf8"/>
-  </a>
-  <a href="https://github.com/sachintanwar2206/acs-ai-voice-connector">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sachintanwar2206&repo=acs-ai-voice-connector&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=94a3b8&icon_color=818cf8"/>
-  </a>
-  <a href="https://github.com/sachintanwar2206/github-copilot-plotview">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sachintanwar2206&repo=github-copilot-plotview&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=94a3b8&icon_color=818cf8"/>
-  </a>
-  <a href="https://github.com/sachintanwar2206/chat4free-local-ai">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sachintanwar2206&repo=chat4free-local-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=94a3b8&icon_color=818cf8"/>
-  </a>
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🗄️ [MSSQL MCP Server](https://github.com/sachintanwar2206/mssql-mcp-server)
+
+MCP server enabling AI assistants (GitHub Copilot, Claude) to interact with SQL Server through natural language — run queries, explore schemas, manage data.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-6366f1?style=flat-square&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-412991?style=flat-square&logoColor=white)
+
+⭐ 1 star &nbsp;·&nbsp; 🍴 0 forks
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎙️ [ACS AI Voice Connector](https://github.com/sachintanwar2206/acs-ai-voice-connector)
+
+Python WebSocket framework bridging Azure Communication Services with AI voice agents for real-time bi-directional voice interaction at production scale (100K+ calls/month).
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Azure ACS](https://img.shields.io/badge/Azure_ACS-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-black?style=flat-square&logoColor=white)
+
+⭐ 1 star &nbsp;·&nbsp; 🍴 0 forks
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📊 [GitHub Copilot Analytics](https://github.com/sachintanwar2206/github-copilot-plotview)
+
+End-to-end solution to track, store, and visualize GitHub Copilot usage metrics using Azure Functions and Power BI. Monitors productivity gains and AI cost savings.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure_Functions-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+⭐ 2 stars &nbsp;·&nbsp; 🍴 0 forks
+
+</td>
+<td width="50%" valign="top">
+
+#### 🤖 [Chat4Free Local AI](https://github.com/sachintanwar2206/chat4free-local-ai)
+
+Offline AI chatbot with 4 GPT4All models and a modern Streamlit interface. 100% private — no API keys, no internet required. Ideal for sensitive data environments.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![GPT4All](https://img.shields.io/badge/GPT4All-412991?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square&logoColor=white)
+
+⭐ 1 star &nbsp;·&nbsp; 🍴 0 forks
+
+</td>
+</tr>
+</table>
 
 ---
 
