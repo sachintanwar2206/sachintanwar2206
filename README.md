@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sachin%20Tanwar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Software%20Architect%20%E2%80%A2%20AI%20Innovation%20Lead%20%E2%80%A2%20Azure%20Cloud%20Expert&descAlignY=75&descSize=18&descColor=94a3b8" width="100%"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=720&height=60&lines=Building+AI-first+Enterprise+Systems+%F0%9F%A4%96;10%2B+Years+%E2%80%A2+Software+Architect+%F0%9F%8F%97%EF%B8%8F;%24100K%2B+Saved+Through+AI+Innovation+%F0%9F%92%A1;Leading+13%2B+Engineers+%40+ThrivePass+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=720&height=60&lines=Building+AI-first+Enterprise+Systems+%F0%9F%A4%96;10%2B+Years+%E2%80%A2+Software+Architect+%F0%9F%8F%97%EF%B8%8F;Driving+AI+Innovation+%40+Enterprise+Scale+%F0%9F%92%A1;Leading+Engineering+Teams+%40+ThrivePass+%F0%9F%9A%80" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -21,9 +21,9 @@
 
 <div align="center">
 
-| 🏗️ **10+** | 💰 **$100K+** | 👥 **13+** | 📞 **100K+** | ⚡ **2–3x** |
+| 🏗️ **10+** | 🤖 **5+** | 👥 **13+** | 📈 **10x** | ⚡ **2–3x** |
 |:---:|:---:|:---:|:---:|:---:|
-| Years Experience | Annual AI Savings | Engineers Led | AI Calls/Month | Productivity Boost |
+| Years Experience | AI Systems Built | Engineers Led | Scale Achieved | Productivity Boost |
 
 </div>
 
