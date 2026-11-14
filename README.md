@@ -43,7 +43,7 @@ Software Architect with **10+ years** designing enterprise systems at scale. Cur
 - 🏢 **ThrivePass** — Software Architect
 - 📍 Delhi, India
 - 🎓 B.Tech CS — GGSIPU
-- 💼 Open to senior remote roles
+- 💼 Currently @ ThrivePass — heading Innovation
 
 </td>
 <td width="50%" valign="top">
