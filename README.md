@@ -114,11 +114,6 @@ current_projects = {
 
 </div>
 
-<br/>
-
-<div align="center">
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sachintanwar2206&bg_color=0d1117&color=818cf8&line=6366f1&point=ffffff&area_color=1e1b4b&area=true&hide_border=true&custom_title=Contribution%20Activity" />
-</div>
 
 ---
 
