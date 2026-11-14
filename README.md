@@ -133,7 +133,7 @@ focus = {
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachin.tanwar2206@gmail.com)
 &nbsp;
-[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-10b981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://sachintanwar2206.github.io/SachinTanwar_SoftwareArchitect_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-10b981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/uc?export=download&id=1xTtqDlP9trlXC0JYeKyYTvhms0ZFxQLO)
 
 </div>
 
