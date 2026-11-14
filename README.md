@@ -1,151 +1,138 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sachin%20Tanwar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Architect%20%7C%20AI%20Innovation%20Lead%20%7C%20Tech%20Lead&descAlignY=55&descSize=16" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sachin%20Tanwar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Software%20Architect%20%E2%80%A2%20AI%20Innovation%20Lead%20%E2%80%A2%20Azure%20Cloud%20Expert&descAlignY=75&descSize=18&descColor=94a3b8" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Software+Architect+%7C+10%2B+Years;AI+%26+LLM+Integration+Expert;Azure+Cloud+%26+Microservices;Leading+Innovation+%40+ThrivePass;Building+AI-first+Enterprise+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&height=60&lines=Building+AI-first+Enterprise+Systems+%F0%9F%A4%96;10%2B+Years+%E2%80%A2+Software+Architect+%F0%9F%8F%97%EF%B8%8F;%24100K%2B+Saved+Through+AI+Innovation+%F0%9F%92%A1;Leading+13%2B+Engineers+%40+ThrivePass+%F0%9F%9A%80" alt="Typing SVG"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sachintanwar2206&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  &nbsp;
-  <a href="https://linkedin.com/in/sachintanwar2206">
-    <img src="https://img.shields.io/badge/LinkedIn-sachintanwar2206-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://sachintanwar2206.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-sachintanwar2206.github.io-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
-  </a>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=sachintanwar2206&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/sachintanwar2206)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sachintanwar2206)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sachintanwar2206.github.io)
+
 </div>
 
 <br/>
 
 ---
 
-## 🧠 About Me
+<div align="center">
 
-- 🏗️ **Software Architect** with **10+ years** designing scalable enterprise systems
-- 🤖 Leading **AI Innovation** at **ThrivePass** — $100K+ annual cost savings through AI adoption
-- ☁️ Expert in **Azure Cloud**, **Microservices**, **.NET 8**, and **LLM Integration**
-- 🎙️ Built production **AI Voice Agents** scaling from 10K → 100K calls/month
-- 👥 Leading cross-functional teams of **13+ engineers**
-- 🚀 Introduced **GitHub Copilot & Claude Code** org-wide — **2–3x productivity boost**
-- 📊 Built executive **Power BI dashboards** driving C-level AI ROI decisions
-- 🌍 Delhi, India — Open to senior remote roles & consulting
+| 🏗️ **10+ Years** | 💡 **$100K+** | 👥 **13+ Engineers** |
+|:---:|:---:|:---:|
+| Software Architecture | AI Cost Savings | Team Leadership |
 
----
+| 🤖 **100K calls/mo** | ⚡ **2–3x** | 🌍 **3 Languages** |
+|:---:|:---:|:---:|
+| AI Voice at Scale | Productivity Boost | Dutch, German, Spanish |
 
-## 🔭 What I'm Working On
-
-- 🧩 **MCP Servers** — bridging AI assistants with enterprise data systems
-- 🎙️ **AI Voice Infrastructure** — event-driven, multilingual, production-scale
-- 🤖 **LLM Workflow Automation** — RAG, prompt engineering, AI code review
-- 📈 **AI Adoption Frameworks** — governance, tooling, and rollout strategies
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**🏛️ Architecture & Cloud**
+### 🧠 Who I Am
+
+Software Architect with **10+ years** designing enterprise systems at scale. Currently heading **Innovation at ThrivePass**, driving AI-first transformation with real, measurable outcomes.
+
+- 🏢 **ThrivePass** — Software Architect
+- 📍 Delhi, India
+- 🎓 B.Tech CS — GGSIPU
+- 💼 Open to senior remote roles
+
+</td>
+<td width="50%" valign="top">
+
+### 🔭 Current Focus
+
+```python
+focus = {
+  "AI":         ["Azure OpenAI", "RAG", "LLM Agents"],
+  "Infra":      ["MCP Servers", "Voice AI"],
+  "Leadership": ["Team of 13+", "AI Adoption"],
+  "Stack":      [".NET 8", "Azure", "Angular"]
+}
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-6366f1?style=for-the-badge&logo=azurefunctions&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 <br/>
 
-**🤖 AI & LLM**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Azure AI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-6366f1?style=for-the-badge&logo=semantic-web&logoColor=white)
-
-<br/>
-
-**⚙️ Backend Engineering**
-
-![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![MSSQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-<br/>
-
-**🎨 Frontend & UI**
-
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-<br/>
-
-**🔧 DevOps & Tools**
-
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Agile](https://img.shields.io/badge/Agile_SDLC-6366f1?style=for-the-badge&logo=jira&logoColor=white)
-![SOC2](https://img.shields.io/badge/SOC_2_Compliant-10b981?style=for-the-badge&logo=shieldsdotio&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sachintanwar2206&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0f1e&title_color=818cf8&icon_color=6366f1&text_color=94a3b8"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachintanwar2206&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=818cf8&text_color=94a3b8"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachintanwar2206&theme=tokyonight&hide_border=true&background=0a0f1e&ring=6366f1&fire=818cf8&currStreakLabel=94a3b8" />
 </div>
 
 ---
 
-## 🚀 Featured Projects
+### 📊 GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sachintanwar2206&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=818cf8&text_color=94a3b8&ring_color=6366f1" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sachintanwar2206&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=64748b" />
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sachintanwar2206&bg_color=0d1117&color=818cf8&line=6366f1&point=ffffff&area=true&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sachintanwar2206/sachintanwar2206/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+### 🚀 Featured Projects
 
 <div align="center">
   <a href="https://github.com/sachintanwar2206/mssql-mcp-server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sachintanwar2206&repo=mssql-mcp-server&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=818cf8&text_color=94a3b8&icon_color=6366f1"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sachintanwar2206&repo=mssql-mcp-server&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=94a3b8&icon_color=818cf8"/>
   </a>
   <a href="https://github.com/sachintanwar2206/acs-ai-voice-connector">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sachintanwar2206&repo=acs-ai-voice-connector&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=818cf8&text_color=94a3b8&icon_color=6366f1"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sachintanwar2206&repo=acs-ai-voice-connector&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=94a3b8&icon_color=818cf8"/>
   </a>
   <a href="https://github.com/sachintanwar2206/github-copilot-plotview">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sachintanwar2206&repo=github-copilot-plotview&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=818cf8&text_color=94a3b8&icon_color=6366f1"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sachintanwar2206&repo=github-copilot-plotview&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=94a3b8&icon_color=818cf8"/>
   </a>
   <a href="https://github.com/sachintanwar2206/chat4free-local-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sachintanwar2206&repo=chat4free-local-ai&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=818cf8&text_color=94a3b8&icon_color=6366f1"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sachintanwar2206&repo=chat4free-local-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=94a3b8&icon_color=818cf8"/>
   </a>
 </div>
 
 ---
 
-## 📬 Let's Connect
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sachintanwar2206-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachintanwar2206)
-[![Portfolio](https://img.shields.io/badge/Portfolio-sachintanwar2206.github.io-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://sachintanwar2206.github.io)
-[![Email](https://img.shields.io/badge/Email-sachin.tanwar2206%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachin.tanwar2206@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sachintanwar2206)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sachintanwar2206.github.io)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachin.tanwar2206@gmail.com)
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
